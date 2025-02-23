@@ -7804,13 +7804,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: BombBirdThing Variant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6233214172892762664, guid: d86b33373da3972498381bff57a37420, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6233214172892762664, guid: d86b33373da3972498381bff57a37420, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.84
+      objectReference: {fileID: 0}
     - target: {fileID: 7085333500791791683, guid: d86b33373da3972498381bff57a37420, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.37
+      value: 2.62
       objectReference: {fileID: 0}
     - target: {fileID: 7085333500791791683, guid: d86b33373da3972498381bff57a37420, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.44
+      value: 4.75
       objectReference: {fileID: 0}
     - target: {fileID: 7085333500791791683, guid: d86b33373da3972498381bff57a37420, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8439,10 +8447,10 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.7799455
-    y: 0.2155772
-    width: 0.43557167
-    height: 0.6675939
+    x: 0.28407556
+    y: 0.018036073
+    width: 0.43184882
+    height: 0.96192384
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
