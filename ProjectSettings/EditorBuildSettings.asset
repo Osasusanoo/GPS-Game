@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RonanScene.unity
     guid: 3d789480ec1a0b94dbb88a8d8d93bff5
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 395985209e95107439fb8be724f8717f
+  - enabled: 1
+    path: Assets/Scenes/SecondLevel.unity
+    guid: 08159bd00ae8c5b4b9d139f39180b70c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
